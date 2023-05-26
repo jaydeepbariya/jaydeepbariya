@@ -22,6 +22,3 @@
 
 <h3 align="left">Languages Stats : </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydeepbariya59&show_icons=true&locale=en&layout=compact" alt="jaydeepbariya59" /></p>
-<br>
-<h3 align="left">Profile Stats : </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydeepbariya59&show_icons=true&locale=en" alt="jaydeepbariya59" /></p>
