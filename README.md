@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jaydeep Bariya</h1>
-<h3 align="center">Full Stack Web Developer | MERN</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeepbariya59&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepbariya59" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
+
+- 👨‍💻 Visit my portfolio [https://jaydeepbariya.vercel.app/]
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaydeepbariya](https://github.com/jaydeepbariya)
 
