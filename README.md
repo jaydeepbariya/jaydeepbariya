@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 Visit my portfolio [https://jaydeepbariya.vercel.app/]
-
 - 👨‍💻 All of my projects are available at [https://github.com/jaydeepbariya](https://github.com/jaydeepbariya)
 
 - 📫 How to reach me **jaydeepbariya59@gmail.com**
