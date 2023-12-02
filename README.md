@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaydeepbariya](https://github.com/jaydeepbariya)
 
-- 📫 How to reach me **jaydeepbariya59@gmail.com**
+- 📫 How to reach me **jaydeepbariya.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
