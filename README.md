@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeepbariya59&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepbariya59" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m working as **Full Stack Web Development** at Infosys Limited
+
+- 📫 Find all my details on [https://jaydeepbariya.vercel.app]
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaydeepbariya](https://github.com/jaydeepbariya)
 
