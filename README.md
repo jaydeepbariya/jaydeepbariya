@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [jaydeepbariya.vercel.app](jaydeepbariya.vercel.app)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN** and **Java** Stack
 
 - 📫 How to reach me **jaydeepbariya.dev@gmail.com**
 
