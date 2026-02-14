@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jaydeepbariya.dev@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/jaydeepbariya/personal-portfolio-app](https://github.com/jaydeepbariya/personal-portfolio-app)
+- 📄 Know about my experiences at [here]([https://github.com/jaydeepbariya/personal-portfolio-app](https://drive.google.com/file/d/1J9G8lO9whFrzfKAj97_sp5TLR6P_UTdv/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
